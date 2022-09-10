@@ -1,13 +1,13 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Panagiotis Tsiavos",
+  "name": "Panagiotis Tsiavos",
+  "ascii": "cveinnt",
   "social": {
-    "github": "github",
+    "github": "PanosCS",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
+  "email": "panos20.pt@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
